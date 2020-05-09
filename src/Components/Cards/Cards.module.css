@@ -4,8 +4,7 @@
 
 .card {
   /* required by material UI when we're not doing inline styles */
-  margin: 0 2rem !important;
-  width: 26rem;
+  margin: 2rem !important;
 }
 
 .infected {
