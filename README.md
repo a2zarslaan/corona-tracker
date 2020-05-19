@@ -1,3 +1,10 @@
+# Corona Tracker App
+
+This project aims at displaying real-time updates of the number of Covid-19 cases worldwide. The app is built on create-react-app boilerplate code, and calls a publicly available API to display country-wise number of cases while categorising them as infected, recovered and deaths. The app uses Chart.js to also display a bar chart for country wise cases and a line chart for global cases, and Material UI along with CSS modules for styling.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
